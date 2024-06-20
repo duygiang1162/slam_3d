@@ -1,0 +1,6 @@
+ros2_urdf/build
+ros2_urdf/install
+ros2_urdf/log
+turtlebot3_ws/build
+turtlebot3_ws/install
+turtlebot3_ws/log
